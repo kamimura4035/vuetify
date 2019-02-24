@@ -21,7 +21,7 @@ export default {
 
   props: {
     height: {
-      default: 32,
+      default: 20,
       type: [Number, String]
     },
     inset: Boolean
